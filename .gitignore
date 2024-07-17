@@ -1,0 +1,27 @@
+node_modules
+dist
+lib
+config.json
+!.changeset/config.json
+.env
+.vscode
+.DS_Store
+
+*.zip
+
+# local env files
+.env.local
+.env.*.local
+
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+test/unit/coverage
+
+# Editor directories and files
+.idea
+.vscode
+
+# node_modules cache
+/package.json.md5
